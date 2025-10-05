@@ -1,0 +1,43 @@
+.open {
+font-family: "Open Sans", "Arial", sans-serif;
+font-size: 20px;
+font-optical-sizing: auto;
+font-weight: 300;
+font-style: italic;
+line-height: 30px;
+
+}
+.decor {
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: line-through;
+}
+.decor-1 {
+    font-family: "Times New Roman", serif;
+    font-size: 2cap;
+    text-transform: uppercase;
+    text-align:center;
+
+}
+.decor-2 {
+    word-spacing:30px;
+    text-align:left;
+    /* 
+        Добавляет тень для текста.
+        Первое значение - смещение тени по оси X
+        Второе значение - смещение тени по оси Y
+        Третье значение - размытие тени
+        Четвёртое значение - цвет тени
+     */
+    text-shadow: 1px 1px 1px #720778;
+    text-decoration: overline wavy;
+}
+.decor-3 {
+    text-decoration:underline double;
+    letter-spacing: 5px;
+    font-size: 20px;
+    font-weight: 500
+}
+
+
