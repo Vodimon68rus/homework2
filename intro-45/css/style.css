@@ -1,0 +1,29 @@
+.block {
+    box-sizing: border-box;
+    width: 1200px;
+    height: 500px;
+    background: #f7bdbd;
+    margin: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.975);
+    border-radius: 10px 0px 0px 10px;
+    overflow:auto;
+    
+
+   
+}
+.card {
+    box-sizing: border-box;
+    background: #d37528;
+    max-width: 250px;
+    min-height: 200px;
+    display: inline-block;
+    margin: 10px 10px;
+    padding: 15px;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow:  inset 0px 0px 10px;
+
+    
+    
+
+}
